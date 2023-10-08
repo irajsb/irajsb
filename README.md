@@ -9,5 +9,5 @@ If you want to support my work please visit [Market Place](https://www.unrealeng
 
 ### Avialbe for hire 
 
-[![iraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=irajsb&theme=tokyonight))]()
+[![iraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=irajsb&theme=tokyonight&rank_icon=github))]()
 
