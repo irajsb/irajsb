@@ -5,5 +5,5 @@
 My name is iraj I'm a software developer and  founder of aurelion studio, intrested in Game development and using Real-Time rendereing to assist industries with their projects !  
 I'll try to upload any usable code into github to be used by this wonderful community!  
  [Market Place](https://www.unrealengine.com/marketplace/en-US/profile/Aurelion)  
-[![iraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=irajsb&theme=tokyonight&rank_icon=github))]()
+[![Iraj's GitHub stats](https://github-stats-extended.vercel.app/api?username=irajsb&theme=tokyonight&rank_icon=github)](https://github.com/irajsb)
 
